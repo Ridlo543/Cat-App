@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CatsApp_ppab_09_Ridlo</string>
+    <string name="title">Play with Cats 🐈</string>
+    <string name="cat_emoji">😼</string>
+
+    <string name="vote_up">Vote Up</string>
+    <string name="vote_down">Vote Down</string>
+    <string name="show_history">Show Vote History</string>
+
+    <string name="action_gallery">Gallery Cats</string>
+    <string name="action_vote">Vote Cats</string>
+</resources>
